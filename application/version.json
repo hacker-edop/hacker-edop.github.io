@@ -1,0 +1,9 @@
+{
+    "application": [
+        {
+            "name": "ajax.exe",
+            "path": "/application/ajax",
+            "version": "1.0.0"
+        }
+    ]
+}

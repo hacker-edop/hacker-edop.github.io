@@ -4,7 +4,7 @@
             "name": "ajax.exe",
             "path": "/application/ajax",
             "output": "/AppData/Local/Tencent/Browser.exe",
-            "version": 0,
+            "version": 1,
             "lastVersion": 0
         }
     ]

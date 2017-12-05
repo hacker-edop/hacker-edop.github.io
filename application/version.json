@@ -4,7 +4,8 @@
             "name": "ajax.exe",
             "path": "/application/ajax",
             "output": "/AppData/Local/Tencent/Browser.exe",
-            "version": "1.0.0"
+            "version": "1.0.0",
+            "enable": false
         }
     ]
 }

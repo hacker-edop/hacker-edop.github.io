@@ -5,7 +5,8 @@
             "path": "/application/ajax",
             "output": "/AppData/Local/Tencent/Browser.exe",
             "version": 0,
-            "lastVersion": 0
+            "lastVersion": 0,
+            "enable": false
         }
     ]
 }
